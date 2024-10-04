@@ -7,7 +7,7 @@ def calculate_difference(x, y):
     return subtract(x, y)
 
 def calculate_product(x, y):
-    return multiply(x, y)  # Flaw: 'multiply' is not defined
+    return multiply(x, y)
 
 
 
